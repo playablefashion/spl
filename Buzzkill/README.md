@@ -63,21 +63,21 @@ When handing out the worksheets, all materials and tools should be presented and
 ### Correct Use of Tools and Safety
 Because of the use of the hot glue gun and iron, safety is an important concern and one that should be emphasized throughout its use. While it is important to point out the hazards of the tools and that they can cause burns, it is crucial to instill confidence in the student that when these tools are used correctly, they will not be hurt and the results will be as expected.  
 
-- Iron
-  - The plate is hot, so don’t touch the plate!
-  - Whenever you are done using it, set it upright so that the hot plate is not touching anything. Otherwise it might burn something or cause a fire.
-  - Keep the cord away from whatever you are ironing, so that it doesn’t get tangled up.
-  - When using the iron with the adhesive bond paper, the iron should be a dry iron, in other words the steam should be turned off.  Refer to the instructions for the adhesive bond paper for more information.
-  - Whenever ironing the adhesive, it’s important to only keep the iron on for 5 seconds. Otherwise the adhesive will melt too much and create a mess, and the foam will start to curl at the edges
-  - Iron should be used with a scrap piece of cotton between the iron and what is being ironed. This protects the prototype from direct heat, but also keeps from the adhesive from getting stuck and ruining the plate. The cloth must be cotton, because synthetics or even blends may melt or burn on the iron.  *note: the iron should be designated as a “craft” iron, as the plate will inevitably get messed up. Don’t use your home iron for this!*
-  - TURN OFF THE IRON WHEN EVERYONE IS DONE USING IT!
+#### Iron
+- The plate is hot, so don’t touch the plate!
+- Whenever you are done using it, set it upright so that the hot plate is not touching anything. Otherwise it might burn something or cause a fire.
+- Keep the cord away from whatever you are ironing, so that it doesn’t get tangled up.
+- When using the iron with the adhesive bond paper, the iron should be a dry iron, in other words the steam should be turned off.  Refer to the instructions for the adhesive bond paper for more information.
+- Whenever ironing the adhesive, it’s important to only keep the iron on for 5 seconds. Otherwise the adhesive will melt too much and create a mess, and the foam will start to curl at the edges
+- Iron should be used with a scrap piece of cotton between the iron and what is being ironed. This protects the prototype from direct heat, but also keeps from the adhesive from getting stuck and ruining the plate. The cloth must be cotton, because synthetics or even blends may melt or burn on the iron.  *note: the iron should be designated as a “craft” iron, as the plate will inevitably get messed up. Don’t use your home iron for this!*
+- TURN OFF THE IRON WHEN EVERYONE IS DONE USING IT!
 
-  - Hot Glue Gun
-    - The tip is hot, so don’t touch the tip!
-    - Whenever you are done using it, set it upright so that the hot tip is not touching anything. Otherwise it might burn something or cause a fire.
-    - Keep the cord away from whatever you are gluing, so that it doesn’t get tangled up.
-    - Glue gun glue especially on fabric can create a mess that is hard to fix. To avoid this, when gluing the pad onto the glove, it helps to just glue the center of the pad to the glove first. Then with the pad faced down on the table, peel back the fabric of the glove to expose the wrong side of the pad. Apply glue to the exposed wrong side of the pad, and then carefully lay the glove fabric over it. Wait a few seconds for it to solidify before picking it up from the table. Do this to the whole perimeter of the pad.
-    - TURN OFF THE GLUE GUN WHEN EVERYONE IS DONE USING IT!
+#### Hot Glue Gun
+- The tip is hot, so don’t touch the tip!
+- Whenever you are done using it, set it upright so that the hot tip is not touching anything. Otherwise it might burn something or cause a fire.
+- Keep the cord away from whatever you are gluing, so that it doesn’t get tangled up.
+- Glue gun glue especially on fabric can create a mess that is hard to fix. To avoid this, when gluing the pad onto the glove, it helps to just glue the center of the pad to the glove first. Then with the pad faced down on the table, peel back the fabric of the glove to expose the wrong side of the pad. Apply glue to the exposed wrong side of the pad, and then carefully lay the glove fabric over it. Wait a few seconds for it to solidify before picking it up from the table. Do this to the whole perimeter of the pad.
+- TURN OFF THE GLUE GUN WHEN EVERYONE IS DONE USING IT!
 
 
 ## Materials (25 students)
