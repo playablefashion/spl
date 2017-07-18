@@ -233,8 +233,6 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Things to look out for:
   - Students becoming “bored” with their gloves and changing component values and asking how they could make their own controllers write their own components. This segues into our fashion and technology and coding in depth modules.
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739224145_remix.gif)
-
 ## Pipeline to Add Images to Game
 Since there are so many image editing tools out there, and so many ways to integrate them into the classroom, instead of requiring a particular software, we want to just mention the minimal functionalities that are required to run this workshop. Therefore, whatever tool is used in class, the students should know the following, at the very least:
 
