@@ -159,6 +159,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Explain the GameObject–Component relationship, highlighting that GameObjects are collections of Components, and Components specify the way a GameObject behaves. [Unity’s video](https://unity3d.com/learn/tutorials/topics/interface-essentials/game-objects-and-components?playlist=17090) on the subject is a good resource for this.
 - Demonstrate equivalence of moving objects in the scene tab and manipulating values in the object's transform component.
 - Have students hack values in the scene and observe the effects on the game. Some suggested hacks are listed below and mentioned in the digital worksheet.
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739046058_change-values.gif)
 
 - Explain swapping out of sprites and importing assets from the internet, and have students do that.
@@ -172,6 +173,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Walk through the custom code briefly, mentioning lessons learned during the FLORA component and sponge computer.
 - Explain the how to modify the values of our custom components, and have students do that.
 - Suggested hacks
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500345973314_faster-flies.gif)
 
   - Make the flies go faster
