@@ -7,13 +7,12 @@ Make images with transparent backgrounds for games with [miniPaint](http://viliu
 1. Find an image online in your web browser
 2. Right click and "copy image". *** *NOTE: If you're using a google image search, make sure you click the "view image" button first before copying image.* 
 3. Return to MiniPaint, and paste with CTRL+V (Windows) or COMMAND+V (Mac)
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4704F2EEDCA9FF65D21CCCF866F75CC9E38D5DCA7098FEF59981AD6F6434EBFF_1500341811528_2017-07-17+17_50_29.gif)
 
 ## **Opening an Image File Saved on Your Computer in miniPaint**
 1. On the Menu at the top of the miniPaint screen, choose File then Open. 
 2. Select the image file and click the Open button. 
-
-
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4704F2EEDCA9FF65D21CCCF866F75CC9E38D5DCA7098FEF59981AD6F6434EBFF_1500341710034_2017-07-17+21_32_41.gif)
 
