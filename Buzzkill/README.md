@@ -96,9 +96,9 @@ Because of the use of the hot glue gun and iron, safety is an important concern 
 Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per person helps, but can be a scissor per 2 students. Otherwise, there will a bottlenecking problem at the hot glue gun and iron stations.
 
 - Glue gun and glue sticks
-- Scissors that can cut fabric
-- Iron (NOTE: any crappy iron will d, whether travel or regular. Just keep in mind that inevitable the adhesive will get on the surface and make it unusable for regular clothes ironing. So it is best to designate the iron as a “craft Iron”.)
-- Scrap cotton fabric (NOTE: 1ft x 1 ft piece should suffice. Must be 100% cotton so it doesn’t burn. Have one of these per iron you have.)
+- Scissors sharp enough so that it can cut fabric
+- Iron (NOTE: any crappy iron will do, whether travel or regular. Just keep in mind that inevitably the adhesive will get on the surface and make it unusable for regular clothes ironing. So it is best to designate the iron as a “craft Iron”.)
+- Scrap cotton fabric (NOTE: 1 ft x 1 ft piece should suffice. Must be 100% cotton so it doesn’t burn. Have one of these per iron you have.)
 
 ## Setting Up
 - Brightly lit room
