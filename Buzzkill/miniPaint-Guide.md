@@ -1,8 +1,6 @@
 # miniPaint Guide Sheet for Buzzkill
 Make images with transparent backgrounds for games with [miniPaint](http://viliusle.github.io/miniPaint/), a free online image editor.
 
-/static/img/pixel.gif
-
 https://d2mxuefqeaa7sj.cloudfront.net/s_4704F2EEDCA9FF65D21CCCF866F75CC9E38D5DCA7098FEF59981AD6F6434EBFF_1498270273117_candy-demo.gif
 
 ## **Copying an Online Image into miniPaint**
