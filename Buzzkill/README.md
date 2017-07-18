@@ -144,9 +144,11 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Walk through of the Unity interface.
 - Explain the Scene Tab as the place they can visually edit their scenes
 - Demonstrate movement through 2D space e.g. panning and zooming.
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498846815354_pan-zoom.gif)
 
 - Demonstrate manipulating objects, e.g. moving and rotating them.
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739031174_manipulate.gif)
 
 - Make sure everyone is comfortable in the Scene tab before moving on.
@@ -161,7 +163,9 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 
 - Explain swapping out of sprites and importing assets from the internet, and have students do that.
   - Having students use Google images to search for new images to use in the game is ideal. If internet access is hard to come by, we’ve included an Art folder with art they can use instead.
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739058762_change-art.gif)
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739053312_add-art.gif)
 
 - Explain swapping out audio and have students do that.
@@ -174,6 +178,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
     - Select all the “fly” objects under the “flies” object in the Hierarchy
     - Find the Looping Flight Script Component in the inspector
     - Change the Fly Speed property to 15
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346196506_different-flies.gif)
 
   - Make the fly differently
@@ -183,6 +188,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
     - Scroll to the bottom of the inspector and click Add Component
     - Type SideToSideFlight and hit enter
     - Now select each fly object and give them different values for the properties under the Side To Side Flight
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346266287_look-flies.gif)
 
   - Change the way the flies look
@@ -190,6 +196,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
     - Find the Sprite Renderer Component in the inspector
     - Click the small circle next to the box for the Sprite property
     - Choose a different image for the flies
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346301473_look-hands.gif)
 
   - Change the way the hands look
@@ -197,6 +204,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
     - Find the Sprite Renderer Component in the inspector
     - Click the small circle next to the box for the Sprite property
     - Choose a different image for the hands
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346408204_clapzone.gif)
 
   - Make a bigger clap zone
@@ -204,6 +212,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
     - Find the Box Collider 2D Component in the Inspector
     - Increase the X property under size, watching the change in the Scene view
     - Increase the Y property under size, watching the change in the Scene view
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346478937_more-flies.gif)
 
 - Make more flies
@@ -221,9 +230,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Things to look out for:
   - Students becoming “bored” with their gloves and changing component values and asking how they could make their own controllers write their own components. This segues into our fashion and technology and coding in depth modules.
 
-
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739224145_remix.gif)
-
 
 ## Pipeline to Add Images to Game
 Since there are so many image editing tools out there, and so many ways to integrate them into the classroom, instead of requiring a particular software, we want to just mention the minimal functionalities that are required to run this workshop. Therefore, whatever tool is used in class, the students should know the following, at the very least:
