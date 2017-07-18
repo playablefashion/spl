@@ -1,58 +1,52 @@
 # Buzzkill Lesson Plan
 
-# **Summary**
+# Summary
 
 The Buzzkill module is an introduction to wearable game controller and preview into the Playable Fashion program, using the Adafruit FLORA and Unity 3D development tools. Most people approach the program not knowing what a wearable game controller is, since there have not been many successful examples in consumer electronics. Participants are asked to make a pair of clapping glove controllers, and through modding a the demo game Buzzkill, we also touch upon game design and programming.
 
 Our goal is to have the student leave the module being excited about this unexplored world of wearable game controllers, a peek into the tools and skills that are needed to make the games, and an understanding of what the entire Playable Fashion program is like.
 
-# **Learning Objectives**
+## Learning Objectives
 - Introduction to Playable Fashion by creating a glove controller, using the FLORA, coding for Unity, and modding games
 - Identifying and familiarizing how custom wearable game controllers can and do exist
 - Comfort with various tools and materials
 
 
-# **Prerequisites**
+## Prerequisites
 - **The FLORA** Adafruit has a great tutorial to show how to set up the FLORA and to download code onto it using the Arduino IDE: [https://learn.adafruit.com/getting-started-with-flora/overview](https://learn.adafruit.com/getting-started-with-flora/overview). Also some basic knowledge of programming using the Arduino programming language will help — i.e., setting up variables, if statements, for loops, loading libraries and code structure).
 - **Unity** While no code will be written in Unity, knowledge of the game engine is important. At the very least an understanding of the interface and concepts are required to be able to effectively answer questions and guide students through the exercise. Unity’s own tutorials are a good place to start: https://unity3d.com/learn/tutorials/topics/interface-essentials
   - At the minimum check out video 1 under “Using the Unity Interface” and video 1 under ”Essential Unity Concepts". The remaining videos in that topic are strongly recommended, but not required.
-# **Context**
-## What are Wearable Game Controllers?
 
+## Context
+### What are Wearable Game Controllers?
 Most digital games we play are on game consoles like the Playstation or the XBox using a traditional game controller, or on the PC, using a keyboard and mouse. Nintendo Wii and Switch break the traditional controller mold a bit, but none of these controllers are wearable. There are examples like those used in [Laser Tag](https://en.wikipedia.org/wiki/Laser_tag), and consumer electronics, for example, the [Nintendo Power Glove from 1989](https://en.wikipedia.org/wiki/Power_Glove), or [the Essential Reality P5 Gaming Glove from 2002](https://www.youtube.com/watch?v=2P7H911-mkg). VR headsets are wearable, but they may not be considered controllers, as their main function is outputting images on a screen, rather than sensing direct interactions by the user. But in essence, wearable game controllers can be thought of a kind of controller that has yet to be thoroughly explored.
 
 Most people may not know what wearable game controllers are, but when we think about the developments in and miniaturization of technology, we can start imaging sensors and switches being embedded into things that we wear. If we think about the avatar in a video game, with wearable game controllers, we can “dress up” as the avatar and even play the games with physical gestures that the avatar may perform. Increasing popularity in cosplay, LARPing and Theater-game experiences show potential for costumes to have embedded sensors. This is an exciting time, where we can start to see emerging applications for wearable game controllers.
 
 
-## Why Wearable Game Controllers?
-
+### Why Wearable Game Controllers?
 Games, technology and fashion are interests that a lot of youth have. But without knowing how the technology works, or how it’s made, it is easy for anyone to remain consumers. Learning the technology, skills and thinking behind making these experimental games can help them become producers of games, rather than just consumers.
 
 Moreover, because wearable game controllers are largely unexplored, it is a wonderful space for students to create their own innovative prototypes and explore what they envision the future of games and technology to be. And if we begin to identify that the video games are indeed stuck in a traditional controllers, console and monitor model, we can start to imagine bringing in the video game into our physical world. We can begin to ask: What if we had unique controllers for every video game that was made? As technology becomes more embedded into our physical world, will game interfaces also follow suit? Is this the future of games?
 
 
-## Hacking and Modding
-
+### Hacking and Modding
 Buzzkill introduces game design by way of the popular practices of *hacking* and *modding*. Hacking is the altering of an existing technological artifact to do something it was not originally intended to do, and modding is the modification of an existing game to play differently. We present students with an existing game and invite them to hack it and change the way it works without writing any code. This works to instill early excitement and gratification in the class without the complications of writing code. This also communicates the larger point that students need not take the world as its given to them, and that they are encouraged to dissect and hack the games and technology in their life to better understand it and to more fully own it.
 
 
-## Custom Controller
-
+### Custom Controller
 Buzzkill uses a controller that the students themselves construct, but still communicates with a conventional computer. This is possible because the controller emulates a keyboard, so the computer cannot tell the difference. This kind of simple interfacing trick is important when getting systems to talk to each other. Buzzkill is also an example of how games using controllers that are can be wearable and quite different from conventional gamepads can unlock totally new play experiences. The controller itself can be modded to match the aesthetic and narrative of the game, allowing for an additional dimension of self expression.
 
 
-## Prototyping and Mastery of Tools and Materials
-
+### Prototyping and Mastery of Tools and Materials
 When working on hands-on projects, it is important to experience the physical and tactile experience of fabricating a prototype. There are many details that can only be experienced first hand by the participant, and that no amount of textbooks or instructions can communicate. Understanding the nuances of a material or tool is the first step towards attaining mastery of the material or tool and ultimately being able to utilize them to be able to make any kind of prototype imagined. It is worth mentioning this at the end of the module in order to make this point more obvious, by pointing out certain characteristics of the tools and materials they’ve just used. For example, the rate at which the glue comes out of that specific glue gun, or how foam reacts to too much heat.
 
 
-## FLORA
-
+### FLORA
 We will use [Adafruit’s FLORA](https://www.adafruit.com/product/659) which is an Arduino-based open source development tool specifically designed to be used for wearable technology projects. The “petals” on the perimeter of the FLORA allow alligator clips or conductive thread to be used to attach to various components. The FLORA is programmed using the Arduino IDE, with the Arduino Programming Language. A wonderful built-in feature of the FLORA is that it can act like a  [USB HID Keyboard](https://en.wikipedia.org/wiki/USB_human_interface_device_class). So it can be connected to any computer as any USB keyboard might be, and programmed to mimic any keyboard strokes or any mouse clicks.
 
 
-## Unity
-
+### Unity
 Unity is the industry standard game engine used by small independent developers and large corporate game studios alike. It’s first release was in 2005 and it became massively popular around 2008 due to its ability to build high performance games to the iPhone. Since then, it has been extended to build games to 27 different platforms. That said, Unity 3D has always had a free version meant to be accessible to students and new comers to the industry, which makes it an affordable teaching tool.
 
 Unity is programmed primarily in C#, but it is unique among similar tools in that it is centered on a style of programming called *Entity Component Systems*. Traditional approaches to programming were found to be insufficiently expressive for video game development around the early 2000s, and a series of papers and talks around alternatives began to emerge, most notably [Scott Bilas’s 2002 Game Developer’s Conference Talk “A Data-Driven Game Object System“](http://scottbilas.com/files/2002/gdc_san_jose/game_objects_slides.pdf). This approach models a game as a collection of *entities*, which are little more than collections of *components* which do all the work. The experience of building a game involves writing reusable components and mixing and matching them on entities to create the final experience. This model is amenable to modding, hacking, and remixing, because any component can be attached to any entity, allowing for infinite variation without writing new code. This module in particular leans heavily on this expressive power.
@@ -60,15 +54,13 @@ Unity is programmed primarily in C#, but it is unique among similar tools in tha
 We like teaching with Unity because it is the tool that we use ourselves in our creative practice and for paid contract work. This gives us a depth of experience to draw from in the classroom, but also ensures that we are starting our students down a path of learning that could eventually lead to them developing their own creative practice or finding employment. We think of Unity as having a “high ceiling” of expressivity, in that students are unlikely to dream up a game that Unity is unable to support. This is different from other, simpler, made-for-the-classroom tools.
 
 
-## Worksheets and Guides
-
+### Worksheets and Guides
 The worksheets, whether physical printouts or digital files, are designed to guide the students to work autonomously, at their own pace, freeing the teacher to give individualized attention to students who need it. However, it helps to have teachers show a mini-demonstration of a craft/sewing step before students arrive at a step on the worksheet. Mini demonstrations are best conducted with a small group of students -- however many can gather around and visibly see the physical act of creating. This may require the instructor to break up the class into smaller groups when demonstrating. This method of having the teacher show a mini-demonstration at various times during a class is a popular teaching technique used in sewing classes and in other craft-based learning scenarios.  
 
 When handing out the worksheets, all materials and tools should be presented and their characteristics reviewed before the students start making their gloves. For example, when mentioning the copper fabric and alligator clips that they are electrically conductive, or when mentioning the adhesive paper emphasizing which is the rough glue side and which is the smooth paper side. This helps the student familiarize with the materials and tools before they dive in.
 
 
-## Correct Use of Tools and Safety
-
+### Correct Use of Tools and Safety
 Because of the use of the hot glue gun and iron, safety is an important concern and one that should be emphasized throughout its use. While it is important to point out the hazards of the tools and that they can cause burns, it is crucial to instill confidence in the student that when these tools are used correctly, they will not be hurt and the results will be as expected.  
 
 - Iron
@@ -88,7 +80,7 @@ Because of the use of the hot glue gun and iron, safety is an important concern 
     - TURN OFF THE GLUE GUN WHEN EVERYONE IS DONE USING IT!
 
 
-# **Materials (25 students)**
+## Materials (25 students)
 - Copper Fabric: Less EMF (1 yard) http://www.lessemf.com/fabric4.html#1212
 - Gloves:
   - Home Depot (10 x pack = 25 pairs + 5 extra) http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309
@@ -100,14 +92,15 @@ Because of the use of the hot glue gun and iron, safety is an important concern 
 - USB cords for FLORA: Adafruit (25 x) https://www.adafruit.com/product/592
 - Alligator Clips: Adafruit ( 5 x pack = 60 clips, 2 per student + 10 extra) https://www.adafruit.com/product/1008
 
-**Tools**
+## Tools
 Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per person helps, but can be a scissor per 2 students. Otherwise, there will a bottlenecking problem at the hot glue gun and iron stations.
 
 - Glue gun and glue sticks
 - Scissors that can cut fabric
 - Iron (NOTE: any crappy iron will d, whether travel or regular. Just keep in mind that inevitable the adhesive will get on the surface and make it unusable for regular clothes ironing. So it is best to designate the iron as a “craft Iron”.)
 - Scrap cotton fabric (NOTE: 1ft x 1 ft piece should suffice. Must be 100% cotton so it doesn’t burn. Have one of these per iron you have.)
-# **Setting Up**
+
+## Setting Up
 - Brightly lit room
 - Enough clear table space to work on
 - Prep computers with software:
@@ -118,9 +111,10 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Ensure that students know how to copy & paste code using the computers
 - Pass the worksheet pdf to students and print out at least the FIRST page of the worksheet, so that the student can cut out the templates. The sheet MUST be printed at 100% SCALE in order to retain the correct sizing of the template.
 - Setting up a different table for just the hot tools (iron and glue gun) can help make the learning space safer, because not only does it spatially separate it from the other work, but it helps the student identify that these tools require more careful use.
-# **Lesson Plan**
 
-**Session One**
+## Lesson Plan
+
+### Session One
 
 - Demo of Buzzkill game.
 - [Show slideshow](https://docs.google.com/presentation/d/1rxPQSHi0s6109nhK67vPBoUwg4niOiSZkIdiC9rcYV0/edit?usp=sharing) [](https://docs.google.com/presentation/d/1rxPQSHi0s6109nhK67vPBoUwg4niOiSZkIdiC9rcYV0/edit?usp=sharing)(What is Playable Fashion, What is a Circuit, What is the FLORA, Intro to Coding for FLORA)
@@ -143,7 +137,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
   - What other interactions, besides clapping, can you think of? Can two players interact with each other to make a game using the controllers?
   - Is this the future?
 
-**Session Two**
+### Session Two
 
 - Have students open [Buzzkill](https://github.com/nasser/buzzkill) in Unity and play the game with their gloves
 - Have everyone use the 2 by 3 layout.
@@ -231,7 +225,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739224145_remix.gif)
 
 
-# Pipeline to Add Images to Game
+## Pipeline to Add Images to Game
 Since there are so many image editing tools out there, and so many ways to integrate them into the classroom, instead of requiring a particular software, we want to just mention the minimal functionalities that are required to run this workshop. Therefore, whatever tool is used in class, the students should know the following, at the very least:
 
 1. Know how to copy an image off of the browser and open in the image editing tool.
