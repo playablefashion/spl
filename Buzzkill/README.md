@@ -139,7 +139,8 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 
 ### Session Two
 
-- Have students open [Buzzkill](https://github.com/nasser/buzzkill) in Unity and play the game with their gloves
+- Have students open [Buzzkill](https://github.com/playablefashion/buzzkill) in Unity and play the game with their gloves
+- Have students open [the digital worksheet](https://github.com/playablefashion/spl/blob/master/Buzzkill/unity-worksheet.md) and follow along
 - Have everyone use the 2 by 3 layout.
 - Walk through of the Unity interface.
 - Explain the Scene Tab as the place they can visually edit their scenes
@@ -244,4 +245,4 @@ Since there are so many image editing tools out there, and so many ways to integ
 5. Save the image in .png format with transparent background.
 
 If an introduction to an image editing tool is needed, [miniPaint](http://viliusle.github.io/miniPaint/) is a free, open image editing software that is easy to use and can be used online without having to download software.
-Here is a [guide for miniPaint](https://github.com/playablefashion/spl/blob/master/Buzzkill/miniPaint-guide.md) to be used in this module.
+Here is a [guide for miniPaint](https://github.com/playablefashion/spl/blob/master/Buzzkill/miniPaint-Guide.md) to be used in this module.
