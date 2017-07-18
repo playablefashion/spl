@@ -118,13 +118,13 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 
 - Demo of Buzzkill game.
 - [Show slideshow](https://docs.google.com/presentation/d/1rxPQSHi0s6109nhK67vPBoUwg4niOiSZkIdiC9rcYV0/edit?usp=sharing) [](https://docs.google.com/presentation/d/1rxPQSHi0s6109nhK67vPBoUwg4niOiSZkIdiC9rcYV0/edit?usp=sharing)(What is Playable Fashion, What is a Circuit, What is the FLORA, Intro to Coding for FLORA)
-- Making gloves with [the gloves worksheet](https://github.com/playablefashion/spl/raw/master/Buzzkill/PlayableFashionBuzzkillGloveWorksheet.pdf) - introduction to worksheets, materials, tools.
+- Making gloves with [the gloves worksheet](https://github.com/playablefashion/spl/raw/master/Buzzkill/glove-worksheet.pdf) - introduction to worksheets, materials, tools.
 - Safety - hot glue guns, iron.
 - Showing demos at the start of each phase (in small groups so everyone can see).
   - 1st demo: ironing with protective piece of muslin/cotton, so iron does not get sticky. Ironing all layers together, paper removal from adhesive, trimming edges of pad, adhesive paper removal.
   - 2nd demo: glue gunning pads to gloves. Using a method where you first glue the center part of the pad to the glove, then turning pad side down, lifting glove material to put glue along the edge of the pad, then pressing the glove material down. This is a cleaner, neater method of gluing.
 - Clipping alligator clips to gloves and FLORA.
-- Upload code to FLORA. [https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/Buzzkill-glove-code/Buzzkill-glove-code.ino](https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/Buzzkill-glove-code/Buzzkill-glove-code.ino)
+- Upload code to FLORA. [https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/glove-code/glove-code.ino](https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/glove-code/glove-code.ino)
 - Referencing Computer sponge workshop when going through lines of code.
 - Having them then mod the code to type out their name when hands are clapped.
 - The FLORA can mimic a keyboard and the gloves can be mapped to the space bar. This can be demonstrated with the following one-button web browser games which use the space bar:
@@ -244,4 +244,4 @@ Since there are so many image editing tools out there, and so many ways to integ
 5. Save the image in .png format with transparent background.
 
 If an introduction to an image editing tool is needed, [miniPaint](http://viliusle.github.io/miniPaint/) is a free, open image editing software that is easy to use and can be used online without having to download software.
-Here is a [guide for miniPaint](https://github.com/playablefashion/spl/blob/master/Buzzkill/miniPaint-Guide.md) to be used in this module.
+Here is a [guide for miniPaint](https://github.com/playablefashion/spl/blob/master/Buzzkill/miniPaint-guide.md) to be used in this module.
