@@ -173,7 +173,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739053312_add-art.gif)
 
-- Explain swapping out audio and have students do that.
+- Explain swapping out audio and have students do that. The procedure to swap out audio files is the same as the procedure for swapping out image files.
 - Walk through the custom code briefly, mentioning lessons learned during the FLORA component and sponge computer.
 - Explain the how to modify the values of our custom components, and have students do that.
 - Suggested hacks
