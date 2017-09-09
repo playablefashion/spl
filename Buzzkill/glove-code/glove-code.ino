@@ -1,4 +1,5 @@
-#include <Keyboard.h>// FOR KEYBOARD STROKE
+#include <Keyboard.h>// FOR KEYBOARD STROKE 
+//May have to remove Keyboard library above for older versions of Arduino IDE
     
 //PLAYABLE FASHION GLOVE CODE
 //REVISED ERSION 2/17/2015 
