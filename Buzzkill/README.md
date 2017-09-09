@@ -138,7 +138,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 
 ### Session Two
 
-- Have students open [Buzzkill](https://github.com/playablefashion/buzzkill) in Unity and play the game with their gloves
+- Have students open [Buzzkill](https://github.com/playablefashion/buzzkill/archive/master.zip) in Unity and play the game with their gloves
 - Have students open [the digital worksheet](https://github.com/playablefashion/spl/blob/master/Buzzkill/unity-worksheet.md) and follow along
 - Have everyone use the 2 by 3 layout.
 - Walk through of the Unity interface.
