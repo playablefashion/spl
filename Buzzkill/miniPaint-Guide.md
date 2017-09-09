@@ -4,7 +4,10 @@ Make images with transparent backgrounds for games with [miniPaint](http://viliu
 ## **Copying an Online Image into miniPaint**
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4704F2EEDCA9FF65D21CCCF866F75CC9E38D5DCA7098FEF59981AD6F6434EBFF_1498270273117_candy-demo.gif)
 1. Find an image online in your web browser
-2. Right click and "copy image". *** *NOTE: If you're using a google image search, make sure you click the "view image" button first before copying image.* 
+2. Right click and "copy image". 
+
+*NOTE: If you're using a google image search, make sure you click the "view image" button first before copying image.* 
+
 3. Return to MiniPaint, and paste with CTRL+V (Windows) or COMMAND+V (Mac)
 
 ## **Opening an Image File Saved on Your Computer in miniPaint**
@@ -16,7 +19,9 @@ Make images with transparent backgrounds for games with [miniPaint](http://viliu
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4704F2EEDCA9FF65D21CCCF866F75CC9E38D5DCA7098FEF59981AD6F6434EBFF_1500341710034_2017-07-17+21_32_41.gif)
 1. On the right hand side of the miniPaint screen, there are layers. Each image you imported should have its own layer. Make sure you select the layer of the image you would like to resize. 
 2. On the menu at the top of screen, go to Layer, then to resize. 
-3. Set your resizing options in the resizing window and select OK.  **** NOTE: If the image you imported is larger than the document image size, the document image size will change to match the size of the imported image. In this case, you may have to resize your document.* 
+3. Set your resizing options in the resizing window and select OK.
+
+*NOTE: If the image you imported is larger than the document image size, the document image size will change to match the size of the imported image. In this case, you may have to resize your document.*
 
 ## **Resizing the Document**
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4704F2EEDCA9FF65D21CCCF866F75CC9E38D5DCA7098FEF59981AD6F6434EBFF_1500341726506_2017-07-17+21_33_36.gif)
