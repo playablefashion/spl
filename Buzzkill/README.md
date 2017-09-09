@@ -141,6 +141,9 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Have students open [Buzzkill](https://github.com/playablefashion/buzzkill/archive/master.zip) in Unity and play the game with their gloves
 - Have students open [the digital worksheet](https://github.com/playablefashion/spl/blob/master/Buzzkill/unity-worksheet.md) and follow along
 - Have everyone use the 2 by 3 layout.
+
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_CEE2115774D4212C4D9444D0B62711C7E51C037B55F09452CFB60171DF67EC34_1504992836080_layout.gif)
+
 - Walk through of the Unity interface.
 - Explain the Scene Tab as the place they can visually edit their scenes
 - Demonstrate movement through 2D space e.g. panning and zooming.
