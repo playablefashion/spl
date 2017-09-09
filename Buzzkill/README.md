@@ -125,7 +125,6 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
   - 2nd demo: glue gunning pads to gloves. Using a method where you first glue the center part of the pad to the glove, then turning pad side down, lifting glove material to put glue along the edge of the pad, then pressing the glove material down. This is a cleaner, neater method of gluing.
 - Clipping alligator clips to gloves and FLORA.
 - Upload code to FLORA. [https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/glove-code/glove-code.ino](https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/glove-code/glove-code.ino)
-- Referencing Computer sponge workshop when going through lines of code.
 - Having them then mod the code to type out their name when hands are clapped.
 - The FLORA can mimic a keyboard and the gloves can be mapped to the space bar. This can be demonstrated with the following one-button web browser games which use the space bar:
   - https://jackv24.itch.io/space-dash
