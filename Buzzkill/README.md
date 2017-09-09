@@ -55,10 +55,11 @@ We like teaching with Unity because it is the tool that we use ourselves in our 
 
 
 ### Worksheets and Guides
-The worksheets, whether physical printouts or digital files, are designed to guide the students to work autonomously, at their own pace, freeing the teacher to give individualized attention to students who need it. However, it helps to have teachers show a mini-demonstration of a craft/sewing step before students arrive at a step on the worksheet. Mini demonstrations are best conducted with a small group of students -- however many can gather around and visibly see the physical act of creating. This may require the instructor to break up the class into smaller groups when demonstrating. This method of having the teacher show a mini-demonstration at various times during a class is a popular teaching technique used in sewing classes and in other craft-based learning scenarios.  
+The worksheets, whether physical printouts or digital files, are designed to guide the students to work autonomously, at their own pace, freeing the teacher to give individualized attention to students who need it. However, it helps to have teachers show a mini-demonstration of a craft/sewing step before students arrive at a step on the worksheet. Mini demonstrations are best conducted with a small group of students -- however many can gather around and visibly see the physical act of creating. This may require the instructor to break up the class into smaller groups when demonstrating. This method of having the teacher show a mini-demonstration at various times during a class is a popular teaching technique used in sewing classes and in other craft-based learning scenarios.
 
 When handing out the worksheets, all materials and tools should be presented and their characteristics reviewed before the students start making their gloves. For example, when mentioning the copper fabric and alligator clips that they are electrically conductive, or when mentioning the adhesive paper emphasizing which is the rough glue side and which is the smooth paper side. This helps the student familiarize with the materials and tools before they dive in.
 
+For the Unity component in Session Two, the digital worksheet serves as a reference for students to use while modding the game on their own. The instructor should first guide the class through the different excersises in the worksheet while describing out loud what is going on. This makes sure that everyone gets a demonstration and an oppertunity to ask questions. Later, the worksheet is provided for students to return to when working alone. The repeating animated GIFs are designed to jog their memory about the instructor's earlier demonstration.
 
 ### Correct Use of Tools and Safety
 Because of the use of the hot glue gun and iron, safety is an important concern and one that should be emphasized throughout its use. While it is important to point out the hazards of the tools and that they can cause burns, it is crucial to instill confidence in the student that when these tools are used correctly, they will not be hurt and the results will be as expected.  
@@ -139,7 +140,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 ### Session Two
 
 - Have students open [Buzzkill](https://github.com/playablefashion/buzzkill/archive/master.zip) in Unity and play the game with their gloves
-- Have students open [the digital worksheet](https://github.com/playablefashion/spl/blob/master/Buzzkill/unity-worksheet.md) and follow along
+- Perform the following tasks and hacks yourself and have your students follow along
 - Have everyone use the 2 by 3 layout.
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_CEE2115774D4212C4D9444D0B62711C7E51C037B55F09452CFB60171DF67EC34_1504992836080_layout.gif)
@@ -227,7 +228,8 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
   - Bubble popper — where hands pop bubbles instead of squish flies
   - Spatulas cracking eggs — with hands replaces with spatulas and flies replaced with eggs
   - Paper crumpler – where hands turn sheets of paper into crumpled up balls of paper
-- Use the remaining time to keep hacking the game or designing the gloves.
+- Have students use the remaining time to keep hacking the game or designing the gloves.
+  - Link students to [the digital worksheet](http://bit.ly/2vNeRT6) at http://bit.ly/2vNeRT6 to use as reference
 - Discussion:
   - How does changing art assets affect the game?
   - How does changing values on components affect the game?
