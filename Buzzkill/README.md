@@ -161,6 +161,10 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Demonstrate the equivalence of selecting an object in the Hierarchy vs selecting an object in the Scene view.
 - Explain the Inspector Tab as a listing of all the components on the selected object
 - Explain the GameObject–Component relationship, highlighting that GameObjects are collections of Components, and Components specify the way a GameObject behaves. [Unity’s video](https://unity3d.com/learn/tutorials/topics/interface-essentials/game-objects-and-components?playlist=17090) on the subject is a good resource for this.
+  - A Component represents a single behavior in a game. For example, "jump when spacebar is pressed" or "take damage when colliding with enemies" or "play a bored animation when the player hasn't pressed a button in a minute". Unity has some built in Components, but game developers write their own components in C# or UnityScript.
+  - A GameObject is a container for Components. GameObjects represent "things in a game", and everything in a game is a GameObject. Examples include, player characters, enemies, powerups, platforms, backgrounds.
+  - Unity allows you to write general Components and mix and match them on GameObjects to build bigger and bigger games.
+  - The Buzzkill project includes several custom Components in the `Code` folder that you can show your students.
 - Demonstrate equivalence of moving objects in the scene tab and manipulating values in the object's transform component.
 - Have students hack values in the scene and observe the effects on the game. Some suggested hacks are listed below and mentioned in the digital worksheet.
 
@@ -174,7 +178,6 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739053312_add-art.gif)
 
 - Explain swapping out audio and have students do that. The procedure to swap out audio files is the same as the procedure for swapping out image files.
-- Walk through the custom code briefly, mentioning lessons learned during the FLORA component and sponge computer.
 - Explain the how to modify the values of our custom components, and have students do that.
 - Suggested hacks
 
