@@ -246,7 +246,7 @@ Since there are so many image editing tools out there, and so many ways to integ
 1. Know how to copy an image off of the browser and open in the image editing tool.
 2. Make image background transparent.
 3. Draw/fill and add text.
-4. Crop image.
+4. Scale and crop image.
 5. Save the image in .png format with transparent background.
 
 If an introduction to an image editing tool is needed, [miniPaint](http://viliusle.github.io/miniPaint/) is a free, open image editing software that is easy to use and can be used online without having to download software.
