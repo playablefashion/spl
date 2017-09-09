@@ -1,6 +1,9 @@
 ## Buzzkill Unity Worksheet
 
 ### Unity’s Editor
+#### Setting the Layout to 2 by 3
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_CEE2115774D4212C4D9444D0B62711C7E51C037B55F09452CFB60171DF67EC34_1504992836080_layout.gif)
+
 #### Moving in the Scene Tab
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498846815354_pan-zoom.gif)
 
